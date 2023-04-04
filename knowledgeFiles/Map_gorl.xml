@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string>description</string>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="name">
+   <string>testy2</string>
+  </void>
+  <void property="topic">
+   <string></string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string></string>
+  </void>
+  <void property="id">
+   <int>2</int>
+  </void>
+  <void property="name">
+   <string>test</string>
+  </void>
+  <void property="topic">
+   <string></string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string></string>
+  </void>
+  <void property="id">
+   <int>3</int>
+  </void>
+  <void property="name">
+   <string>Ziņa</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+</java>

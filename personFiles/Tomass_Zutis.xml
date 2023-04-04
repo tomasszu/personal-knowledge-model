@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="tomass.tz18004.Person">
+  <void property="age">
+   <int>23</int>
+  </void>
+  <void property="name">
+   <string>Tomass</string>
+  </void>
+  <void property="surname">
+   <string>Zutis</string>
+  </void>
+ </object>
+</java>

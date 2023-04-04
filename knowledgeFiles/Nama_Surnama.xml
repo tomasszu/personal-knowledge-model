@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string></string>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="linkedKnowledge">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <int>8</int>
+     <string>linky2</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>know1</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string></string>
+  </void>
+  <void property="id">
+   <int>2</int>
+  </void>
+  <void property="name">
+   <string>know2</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string></string>
+  </void>
+  <void property="id">
+   <int>6</int>
+  </void>
+  <void property="linkedKnowledge">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <int>7</int>
+     <string>linky</string>
+    </void>
+    <void method="put">
+     <int>10</int>
+     <string>testlinky</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>know3</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Knowledge">
+  <void property="description">
+   <string>lalal</string>
+  </void>
+  <void property="id">
+   <int>9</int>
+  </void>
+  <void property="linkedKnowledge">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <int>12</int>
+     <string>zinax</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>zina</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>3</int>
+  </void>
+  <void property="linkedKnowledge">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <int>16</int>
+     <string>errortest</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>conc1</string>
+  </void>
+  <void property="topic">
+   <string>c</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>4</int>
+  </void>
+  <void property="name">
+   <string>conc2</string>
+  </void>
+  <void property="topic">
+   <string>c</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>5</int>
+  </void>
+  <void property="name">
+   <string>conc3</string>
+  </void>
+  <void property="topic">
+   <string>c</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>7</int>
+  </void>
+  <void property="linkedKnowledge">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <int>15</int>
+     <string>errortest</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>conc4</string>
+  </void>
+  <void property="topic">
+   <string>c</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>8</int>
+  </void>
+  <void property="name">
+   <string>conc5</string>
+  </void>
+  <void property="topic">
+   <string>c</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>10</int>
+  </void>
+  <void property="name">
+   <string>koncy</string>
+  </void>
+  <void property="topic">
+   <string>c</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>11</int>
+  </void>
+  <void property="name">
+   <string>koncy2</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>12</int>
+  </void>
+  <void property="name">
+   <string>koncy3</string>
+  </void>
+  <void property="topic">
+   <string></string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>13</int>
+  </void>
+  <void property="name">
+   <string>koncy4</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>14</int>
+  </void>
+  <void property="name">
+   <string>jaunskoncepts</string>
+  </void>
+  <void property="topic">
+   <string>test</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>15</int>
+  </void>
+  <void property="name">
+   <string>koncE</string>
+  </void>
+  <void property="topic">
+   <string>error</string>
+  </void>
+ </object>
+ <object class="tomass.tz18004.Concept">
+  <void property="id">
+   <int>16</int>
+  </void>
+  <void property="name">
+   <string>koncE2</string>
+  </void>
+  <void property="topic">
+   <string>error</string>
+  </void>
+ </object>
+</java>

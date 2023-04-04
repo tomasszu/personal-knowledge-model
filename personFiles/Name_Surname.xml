@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="tomass.tz18004.Person">
+  <void property="age">
+   <int>0</int>
+  </void>
+  <void property="knows">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <int>1</int>
+     <string>zina</string>
+    </void>
+    <void method="put">
+     <int>2</int>
+     <string>zina</string>
+    </void>
+    <void method="put">
+     <int>9</int>
+     <string>zina</string>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <string>Name</string>
+  </void>
+  <void property="surname">
+   <string>Surname</string>
+  </void>
+ </object>
+</java>
